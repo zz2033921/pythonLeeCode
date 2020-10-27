@@ -42,20 +42,26 @@ print(ff)
 class answer:
     def funcSub(self, nums):
         self.res = []
+        nums=sorted(nums)
+        print(nums)
         for i in range(len(nums) + 1):
             self.bac(nums, i, 0, [])
         return self.res
 
     def bac(self, nums, length, index, cur):
         if length == len(cur):
+            # if cur[:] not in self.res:
             self.res.append(cur[:])
             return
         for i in range(index, len(nums)):
+            if i>index and nums[i-1]==nums[i]:
+                continue
             cur.append(nums[i])
             self.bac(nums, length, i + 1, cur)
             cur.pop()
 
 
 fes = answer()
-hh = fes.funcSub([1, 2, 3])
+hh = fes.funcSub([4,4,4,1,4])
 print(hh)
+
