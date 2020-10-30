@@ -1,3 +1,6 @@
+import matplotlib
+
+matplotlib.use('Agg')
 import tkinter as tk  # 导入tkinter模块
 import tkinter.scrolledtext as tst
 
