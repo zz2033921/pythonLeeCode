@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>Form</class>
+    <widget class="QWidget" name="Form">
+        <property name="enabled">
+            <bool>true</bool>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>1840</width>
+                <height>1152</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Form</string>
+        </property>
+        <widget class="QWidget" name="gridLayoutWidget">
+            <property name="geometry">
+                <rect>
+                    <x>10</x>
+                    <y>40</y>
+                    <width>1781</width>
+                    <height>1063</height>
+                </rect>
+            </property>
+            <layout class="QGridLayout" name="gridLayout">
+                <item row="23" column="7">
+                    <widget class="QLineEdit" name="lineEdit_34"/>
+                </item>
+                <item row="21" column="3">
+                    <widget class="QLineEdit" name="lineEdit_81"/>
+                </item>
+                <item row="20" column="3">
+                    <widget class="QLineEdit" name="lineEdit_80"/>
+                </item>
+                <item row="9" column="5">
+                    <widget class="QLineEdit" name="lineEdit_87"/>
+                </item>
+                <item row="21" column="7">
+                    <widget class="QLineEdit" name="lineEdit_32"/>
+                </item>
+                <item row="22" column="0">
+                    <widget class="QLabel" name="label_29">
+                        <property name="text">
+                            <string>zxrzdm（在校任职情况代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="22" column="7">
+                    <widget class="QLineEdit" name="lineEdit_33"/>
+                </item>
+                <item row="21" column="2">
+                    <widget class="QLabel" name="label_56">
+                        <property name="text">
+                            <string>bz6</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="2" column="6">
+                    <widget class="QLabel" name="label_165">
+                        <property name="text">
+                            <string>yxmc（院校名称）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="4" column="0">
+                    <widget class="QLabel" name="label_10">
+                        <property name="text">
+                            <string>zyfx（专业方向）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="13" column="4">
+                    <widget class="QLabel" name="label_65">
+                        <property name="text">
+                            <string>dwlxr（单位联系人）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="21" column="4">
+                    <widget class="QLabel" name="label_57">
+                        <property name="text">
+                            <string>jymyd（就业满意度）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="20" column="1">
+                    <widget class="QLineEdit" name="lineEdit_52"/>
+                </item>
+                <item row="7" column="4">
+                    <widget class="QLabel" name="label_138">
+                        <property name="text">
+                            <string>dwxzdm（单位性质代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="16" column="7">
+                    <widget class="QLineEdit" name="lineEdit_26"/>
+                </item>
+                <item row="22" column="4">
+                    <widget class="QLabel" name="label_167">
+                        <property name="text">
+                            <string>tzjy（是否调整就业）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="16" column="2">
+                    <widget class="QLabel" name="label_51">
+                        <property name="text">
+                            <string>bz1</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="2" column="2">
+                    <widget class="QLabel" name="label_3">
+                        <property name="text">
+                            <string>dwmc（单位名称）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="24" column="0">
+                    <widget class="QLabel" name="label_31">
+                        <property name="text">
+                            <string>sxyx（升学院校）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="9" column="6">
+                    <widget class="QLabel" name="label_158">
+                        <property name="text">
+                            <string>xldm（学历代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="1" column="5">
+                    <widget class="QLineEdit" name="lineEdit_6"/>
+                </item>
+                <item row="19" column="0">
+                    <widget class="QLabel" name="label_26">
+                        <property name="text">
+                            <string>xjbd（学籍变动）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="20" column="0">
+                    <widget class="QLabel" name="label_27">
+                        <property name="text">
+                            <string>jthkszddm（家庭户口所在地代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="14" column="7">
+                    <widget class="QLineEdit" name="lineEdit_24"/>
+                </item>
+                <item row="11" column="6">
+                    <widget class="QLabel" name="label_156">
+                        <property name="text">
+                            <string>xz（学制）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="16" column="6">
+                    <widget class="QLabel" name="label_151">
+                        <property name="text">
+                            <string>bdqssj（报到起始时间）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="4" column="1">
+                    <widget class="QLineEdit" name="lineEdit_36"/>
+                </item>
+                <item row="26" column="0">
+                    <widget class="QLabel" name="label_33">
+                        <property name="text">
+                            <string>rxqdaszdw（入学前档案所在单位）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="12" column="7">
+                    <widget class="QLineEdit" name="lineEdit_22"/>
+                </item>
+                <item row="16" column="0">
+                    <widget class="QLabel" name="label_23">
+                        <property name="text">
+                            <string>jtdh（家庭电话）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="30" column="1">
+                    <widget class="QLineEdit" name="lineEdit_63"/>
+                </item>
+                <item row="10" column="0">
+                    <widget class="QLabel" name="label_17">
+                        <property name="text">
+                            <string>knslbdm（困难生类别代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="20" column="2">
+                    <widget class="QLabel" name="label_55">
+                        <property name="text">
+                            <string>bz5</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="29" column="1">
+                    <widget class="QLineEdit" name="lineEdit_62"/>
+                </item>
+                <item row="11" column="4">
+                    <widget class="QLabel" name="label_67">
+                        <property name="text">
+                            <string>zydk（专业是否对口）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="18" column="5">
+                    <widget class="QLineEdit" name="lineEdit_96"/>
+                </item>
+                <item row="13" column="1">
+                    <widget class="QLineEdit" name="lineEdit_45"/>
+                </item>
+                <item row="13" column="2">
+                    <widget class="QLabel" name="label_48">
+                        <property name="text">
+                            <string>dazjdwyb（档案转寄单位邮编）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="1" column="1">
+                    <widget class="QLineEdit" name="lineEdit"/>
+                </item>
+                <item row="13" column="6">
+                    <widget class="QLabel" name="label_154">
+                        <property name="text">
+                            <string>rxsj（入学时间）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="1" column="4">
+                    <widget class="QLabel" name="label_6">
+                        <property name="text">
+                            <string>dxhwpdw（定向和委培单位）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="1" column="7">
+                    <widget class="QLineEdit" name="lineEdit_11"/>
+                </item>
+                <item row="19" column="7">
+                    <widget class="QLineEdit" name="lineEdit_30"/>
+                </item>
+                <item row="20" column="4">
+                    <widget class="QLabel" name="label_58">
+                        <property name="text">
+                            <string>dwlxrzw（单位联系人职务）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="10" column="4">
+                    <widget class="QLabel" name="label_135">
+                        <property name="text">
+                            <string>qysj（签约时间）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="12" column="1">
+                    <widget class="QLineEdit" name="lineEdit_44"/>
+                </item>
+                <item row="0" column="7">
+                    <widget class="QLineEdit" name="lineEdit_102">
+                        <property name="enabled">
+                            <bool>true</bool>
+                        </property>
+                        <property name="text">
+                            <string>就业指导中心</string>
+                        </property>
+                        <property name="frame">
+                            <bool>false</bool>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="6" column="5">
+                    <widget class="QLineEdit" name="lineEdit_84"/>
+                </item>
+                <item row="18" column="1">
+                    <widget class="QLineEdit" name="lineEdit_50"/>
+                </item>
+                <item row="4" column="4">
+                    <widget class="QLabel" name="label_141">
+                        <property name="text">
+                            <string>dwlsbmdm（单位隶属部门代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="5" column="3">
+                    <widget class="QLineEdit" name="lineEdit_65"/>
+                </item>
+                <item row="18" column="3">
+                    <widget class="QLineEdit" name="lineEdit_78"/>
+                </item>
+                <item row="27" column="0">
+                    <widget class="QLabel" name="label_34">
+                        <property name="text">
+                            <string>dasfzrxx（档案是否转入学校）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="7" column="3">
+                    <widget class="QLineEdit" name="lineEdit_67"/>
+                </item>
+                <item row="15" column="6">
+                    <widget class="QLabel" name="label_152">
+                        <property name="text">
+                            <string>bdzbh（报到证编号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="7" column="0">
+                    <widget class="QLabel" name="label_14">
+                        <property name="text">
+                            <string>byzx（毕业中学）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="14" column="5">
+                    <widget class="QLineEdit" name="lineEdit_92"/>
+                </item>
+                <item row="5" column="1">
+                    <widget class="QLineEdit" name="lineEdit_37"/>
+                </item>
+                <item row="22" column="3">
+                    <widget class="QLineEdit" name="lineEdit_205"/>
+                </item>
+                <item row="11" column="5">
+                    <widget class="QLineEdit" name="lineEdit_89"/>
+                </item>
+                <item row="3" column="2">
+                    <widget class="QLabel" name="label_7">
+                        <property name="text">
+                            <string>bdzqwdwmc（报到证签往单位名称）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="9" column="1">
+                    <widget class="QLineEdit" name="lineEdit_41"/>
+                </item>
+                <item row="8" column="2">
+                    <widget class="QLabel" name="label_43">
+                        <property name="text">
+                            <string>qwdwszd（迁往单位所在地）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="9" column="2">
+                    <widget class="QLabel" name="label_44">
+                        <property name="text">
+                            <string>dwszd（单位所在地）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="25" column="0">
+                    <widget class="QLabel" name="label_32">
+                        <property name="text">
+                            <string>sxyxszd（升学院校所在地）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="19" column="2">
+                    <widget class="QLabel" name="label_54">
+                        <property name="text">
+                            <string>bz4（备注4）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="8" column="0">
+                    <widget class="QLabel" name="label_15">
+                        <property name="text">
+                            <string>syszddm（生源所在地代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="10" column="3">
+                    <widget class="QLineEdit" name="lineEdit_70"/>
+                </item>
+                <item row="0" column="3">
+                    <widget class="QLineEdit" name="lineEdit_100">
+                        <property name="enabled">
+                            <bool>true</bool>
+                        </property>
+                        <property name="text">
+                            <string>就业字段--(1)</string>
+                        </property>
+                        <property name="frame">
+                            <bool>false</bool>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="7" column="7">
+                    <widget class="QLineEdit" name="lineEdit_17"/>
+                </item>
+                <item row="17" column="2">
+                    <widget class="QLabel" name="label_52">
+                        <property name="text">
+                            <string>bz2</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="28" column="0">
+                    <widget class="QLabel" name="label_35">
+                        <property name="text">
+                            <string>rxqhkszdpc（入学前户口所在地派出所）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="31" column="0">
+                    <widget class="QLabel" name="label_38">
+                        <property name="text">
+                            <string>csrq（出生日期）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="19" column="4">
+                    <widget class="QLabel" name="label_59">
+                        <property name="text">
+                            <string>dwyb（单位邮编）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="20" column="6">
+                    <widget class="QLabel" name="label_147">
+                        <property name="text">
+                            <string>szyx（所在院系）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="27" column="1">
+                    <widget class="QLineEdit" name="lineEdit_60"/>
+                </item>
+                <item row="0" column="5">
+                    <widget class="QLineEdit" name="lineEdit_101">
+                        <property name="enabled">
+                            <bool>true</bool>
+                        </property>
+                        <property name="text">
+                            <string>就业字段--(2)</string>
+                        </property>
+                        <property name="frame">
+                            <bool>false</bool>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="24" column="7">
+                    <widget class="QLineEdit" name="lineEdit_28"/>
+                </item>
+                <item row="14" column="6">
+                    <widget class="QLabel" name="label_153">
+                        <property name="text">
+                            <string>pqsj（派遣时间）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="15" column="1">
+                    <widget class="QLineEdit" name="lineEdit_47"/>
+                </item>
+                <item row="11" column="7">
+                    <widget class="QLineEdit" name="lineEdit_21"/>
+                </item>
+                <item row="19" column="1">
+                    <widget class="QLineEdit" name="lineEdit_51"/>
+                </item>
+                <item row="3" column="0">
+                    <widget class="QLabel" name="label_5">
+                        <property name="text">
+                            <string>zy（专业）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="29" column="0">
+                    <widget class="QLabel" name="label_36">
+                        <property name="text">
+                            <string>hksfzrxx（户口是否转入学校）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="17" column="4">
+                    <widget class="QLabel" name="label_61">
+                        <property name="text">
+                            <string>lxrcz（联系人传真）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="23" column="0">
+                    <widget class="QLabel" name="label_30">
+                        <property name="text">
+                            <string>zhcpdc（综合测评档次）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="8" column="6">
+                    <widget class="QLabel" name="label_159">
+                        <property name="text">
+                            <string>xbdm（性别代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="9" column="3">
+                    <widget class="QLineEdit" name="lineEdit_69"/>
+                </item>
+                <item row="5" column="7">
+                    <widget class="QLineEdit" name="lineEdit_15"/>
+                </item>
+                <item row="2" column="4">
+                    <widget class="QLabel" name="label_9">
+                        <property name="text">
+                            <string>dwzzjgdm（单位组织机构代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="21" column="1">
+                    <widget class="QLineEdit" name="lineEdit_53"/>
+                </item>
+                <item row="2" column="5">
+                    <widget class="QLineEdit" name="lineEdit_8"/>
+                </item>
+                <item row="5" column="6">
+                    <widget class="QLabel" name="label_162">
+                        <property name="text">
+                            <string>ksh（考生号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="6" column="4">
+                    <widget class="QLabel" name="label_139">
+                        <property name="text">
+                            <string>dwhydm（单位行业代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="11" column="1">
+                    <widget class="QLineEdit" name="lineEdit_43"/>
+                </item>
+                <item row="23" column="1">
+                    <widget class="QLineEdit" name="lineEdit_55"/>
+                </item>
+                <item row="4" column="5">
+                    <widget class="QLineEdit" name="lineEdit_82"/>
+                </item>
+                <item row="2" column="3">
+                    <widget class="QLineEdit" name="lineEdit_4"/>
+                </item>
+                <item row="10" column="1">
+                    <widget class="QLineEdit" name="lineEdit_42"/>
+                </item>
+                <item row="8" column="7">
+                    <widget class="QLineEdit" name="lineEdit_18"/>
+                </item>
+                <item row="19" column="3">
+                    <widget class="QLineEdit" name="lineEdit_79"/>
+                </item>
+                <item row="7" column="5">
+                    <widget class="QLineEdit" name="lineEdit_85"/>
+                </item>
+                <item row="22" column="2">
+                    <widget class="QLabel" name="label_166">
+                        <property name="text">
+                            <string>bz7</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="17" column="0">
+                    <widget class="QLabel" name="label_24">
+                        <property name="text">
+                            <string>jtyb（家庭邮编）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="2" column="0">
+                    <widget class="QLabel" name="label_2">
+                        <property name="text">
+                            <string>zzmmdm（政治面貌代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="10" column="2">
+                    <widget class="QLabel" name="label_45">
+                        <property name="text">
+                            <string>dazjdwmc（档案转寄单位名称）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="5" column="4">
+                    <widget class="QLabel" name="label_140">
+                        <property name="text">
+                            <string>dwls（单位隶属）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="12" column="2">
+                    <widget class="QLabel" name="label_47">
+                        <property name="text">
+                            <string>协议书号(xysh)</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="7" column="6">
+                    <widget class="QLabel" name="label_160">
+                        <property name="text">
+                            <string>sfzh（身份证号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="17" column="5">
+                    <widget class="QLineEdit" name="lineEdit_95"/>
+                </item>
+                <item row="6" column="1">
+                    <widget class="QLineEdit" name="lineEdit_38"/>
+                </item>
+                <item row="18" column="7">
+                    <widget class="QLineEdit" name="lineEdit_29"/>
+                </item>
+                <item row="12" column="6">
+                    <widget class="QLabel" name="label_155">
+                        <property name="text">
+                            <string>bysj（毕业时间）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="30" column="0">
+                    <widget class="QLabel" name="label_37">
+                        <property name="text">
+                            <string>cxsy（城乡生源）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="18" column="2">
+                    <widget class="QLabel" name="label_53">
+                        <property name="text">
+                            <string>bz3</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="18" column="0">
+                    <widget class="QLabel" name="label_25">
+                        <property name="text">
+                            <string>xjbddm（学籍变动代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="18" column="4">
+                    <widget class="QLabel" name="label_60">
+                        <property name="text">
+                            <string>dwdz（单位地址）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="13" column="7">
+                    <widget class="QLineEdit" name="lineEdit_23"/>
+                </item>
+                <item row="10" column="6">
+                    <widget class="QLabel" name="label_157">
+                        <property name="text">
+                            <string>xl（学历）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="21" column="6">
+                    <widget class="QLabel" name="label_146">
+                        <property name="text">
+                            <string>szbj（所在班级）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="16" column="5">
+                    <widget class="QLineEdit" name="lineEdit_94"/>
+                </item>
+                <item row="31" column="1">
+                    <widget class="QLineEdit" name="lineEdit_59"/>
+                </item>
+                <item row="1" column="2">
+                    <widget class="QLabel" name="label_4">
+                        <property name="text">
+                            <string>byqxdm（毕业去向代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="18" column="6">
+                    <widget class="QLabel" name="label_149">
+                        <property name="text">
+                            <string>yksh（原考生号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="2" column="1">
+                    <widget class="QLineEdit" name="lineEdit_2"/>
+                </item>
+                <item row="22" column="6">
+                    <widget class="QLabel" name="label_145">
+                        <property name="text">
+                            <string>xsh（系所号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="21" column="5">
+                    <widget class="QLineEdit" name="lineEdit_99"/>
+                </item>
+                <item row="17" column="3">
+                    <widget class="QLineEdit" name="lineEdit_77"/>
+                </item>
+                <item row="14" column="1">
+                    <widget class="QLineEdit" name="lineEdit_46"/>
+                </item>
+                <item row="6" column="3">
+                    <widget class="QLineEdit" name="lineEdit_66"/>
+                </item>
+                <item row="15" column="7">
+                    <widget class="QLineEdit" name="lineEdit_25"/>
+                </item>
+                <item row="11" column="2">
+                    <widget class="QLabel" name="label_46">
+                        <property name="text">
+                            <string>dazjdwdz（档案转寄单位地址）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="28" column="1">
+                    <widget class="QLineEdit" name="lineEdit_61"/>
+                </item>
+                <item row="9" column="0">
+                    <widget class="QLabel" name="label_16">
+                        <property name="text">
+                            <string>syszd（生源所在地）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="16" column="1">
+                    <widget class="QLineEdit" name="lineEdit_48"/>
+                </item>
+                <item row="8" column="1">
+                    <widget class="QLineEdit" name="lineEdit_40"/>
+                </item>
+                <item row="13" column="3">
+                    <widget class="QLineEdit" name="lineEdit_73"/>
+                </item>
+                <item row="8" column="5">
+                    <widget class="QLineEdit" name="lineEdit_86"/>
+                </item>
+                <item row="9" column="7">
+                    <widget class="QLineEdit" name="lineEdit_19"/>
+                </item>
+                <item row="12" column="4">
+                    <widget class="QLabel" name="label_66">
+                        <property name="text">
+                            <string>jyqk（就业情况）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="5" column="5">
+                    <widget class="QLineEdit" name="lineEdit_83"/>
+                </item>
+                <item row="13" column="0">
+                    <widget class="QLabel" name="label_20">
+                        <property name="text">
+                            <string>mobilephon（手机）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="17" column="1">
+                    <widget class="QLineEdit" name="lineEdit_49"/>
+                </item>
+                <item row="3" column="5">
+                    <widget class="QLineEdit" name="lineEdit_9"/>
+                </item>
+                <item row="4" column="3">
+                    <widget class="QLineEdit" name="lineEdit_64"/>
+                </item>
+                <item row="8" column="4">
+                    <widget class="QLabel" name="label_137">
+                        <property name="text">
+                            <string>gzzwlbdm（工作职位类别代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="19" column="5">
+                    <widget class="QLineEdit" name="lineEdit_97"/>
+                </item>
+                <item row="3" column="4">
+                    <widget class="QLabel" name="label_8">
+                        <property name="text">
+                            <string>dwszddm（单位所在地代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="3" column="3">
+                    <widget class="QLineEdit" name="lineEdit_7"/>
+                </item>
+                <item row="5" column="0">
+                    <widget class="QLabel" name="label_12">
+                        <property name="text">
+                            <string>zydm（专业代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="15" column="0">
+                    <widget class="QLabel" name="label_22">
+                        <property name="text">
+                            <string>jtdz（家庭住址）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="19" column="6">
+                    <widget class="QLabel" name="label_148">
+                        <property name="text">
+                            <string>dybz（打印标志）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="20" column="5">
+                    <widget class="QLineEdit" name="lineEdit_98"/>
+                </item>
+                <item row="10" column="7">
+                    <widget class="QLineEdit" name="lineEdit_20"/>
+                </item>
+                <item row="15" column="3">
+                    <widget class="QLineEdit" name="lineEdit_75"/>
+                </item>
+                <item row="7" column="1">
+                    <widget class="QLineEdit" name="lineEdit_39"/>
+                </item>
+                <item row="1" column="3">
+                    <widget class="QLineEdit" name="lineEdit_3"/>
+                </item>
+                <item row="14" column="4">
+                    <widget class="QLabel" name="label_64">
+                        <property name="text">
+                            <string>lxrdh（联系人电话）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="11" column="0">
+                    <widget class="QLabel" name="label_18">
+                        <property name="text">
+                            <string>sfslbdm（师范生类别代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="16" column="4">
+                    <widget class="QLabel" name="label_62">
+                        <property name="text">
+                            <string>lxrdzyx（联系人电子邮箱）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="12" column="3">
+                    <widget class="QLineEdit" name="lineEdit_72"/>
+                </item>
+                <item row="21" column="0">
+                    <widget class="QLabel" name="label_28">
+                        <property name="text">
+                            <string>dsznbz（独生子女标志）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="3" column="7">
+                    <widget class="QLineEdit" name="lineEdit_13"/>
+                </item>
+                <item row="3" column="6">
+                    <widget class="QLabel" name="label_164">
+                        <property name="text">
+                            <string>fxmc（分校名称）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="22" column="5">
+                    <widget class="QLineEdit" name="lineEdit_206"/>
+                </item>
+                <item row="1" column="6">
+                    <widget class="QLabel" name="label_11">
+                        <property name="text">
+                            <string>yxdm（院校代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="22" column="1">
+                    <widget class="QLineEdit" name="lineEdit_54"/>
+                </item>
+                <item row="15" column="2">
+                    <widget class="QLabel" name="label_50">
+                        <property name="text">
+                            <string>bz（备注）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="10" column="5">
+                    <widget class="QLineEdit" name="lineEdit_88"/>
+                </item>
+                <item row="12" column="0">
+                    <widget class="QLabel" name="label_19">
+                        <property name="text">
+                            <string>qq（QQ号码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="2" column="7">
+                    <widget class="QLineEdit" name="lineEdit_12"/>
+                </item>
+                <item row="14" column="3">
+                    <widget class="QLineEdit" name="lineEdit_74"/>
+                </item>
+                <item row="20" column="7">
+                    <widget class="QLineEdit" name="lineEdit_31"/>
+                </item>
+                <item row="12" column="5">
+                    <widget class="QLineEdit" name="lineEdit_90"/>
+                </item>
+                <item row="17" column="7">
+                    <widget class="QLineEdit" name="lineEdit_27"/>
+                </item>
+                <item row="5" column="2">
+                    <widget class="QLabel" name="label_40">
+                        <property name="text">
+                            <string>sfjybz（是否就业标志）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="25" column="1">
+                    <widget class="QLineEdit" name="lineEdit_57"/>
+                </item>
+                <item row="16" column="3">
+                    <widget class="QLineEdit" name="lineEdit_76"/>
+                </item>
+                <item row="14" column="0">
+                    <widget class="QLabel" name="label_21">
+                        <property name="text">
+                            <string>email</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="26" column="1">
+                    <widget class="QLineEdit" name="lineEdit_58"/>
+                </item>
+                <item row="14" column="2">
+                    <widget class="QLabel" name="label_49">
+                        <property name="text">
+                            <string>hkqzdz（户口迁转地址）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="7" column="2">
+                    <widget class="QLabel" name="label_42">
+                        <property name="text">
+                            <string>qwdwszddm（签往单位所在地代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="24" column="1">
+                    <widget class="QLineEdit" name="lineEdit_56"/>
+                </item>
+                <item row="17" column="6">
+                    <widget class="QLabel" name="label_150">
+                        <property name="text">
+                            <string>pqbdzh（派遣报道证号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="15" column="5">
+                    <widget class="QLineEdit" name="lineEdit_93"/>
+                </item>
+                <item row="25" column="7">
+                    <widget class="QLineEdit" name="lineEdit_35"/>
+                </item>
+                <item row="6" column="2">
+                    <widget class="QLabel" name="label_41">
+                        <property name="text">
+                            <string>bdzqflbdm（报到证签发类别代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="6" column="7">
+                    <widget class="QLineEdit" name="lineEdit_16"/>
+                </item>
+                <item row="8" column="3">
+                    <widget class="QLineEdit" name="lineEdit_68"/>
+                </item>
+                <item row="11" column="3">
+                    <widget class="QLineEdit" name="lineEdit_71"/>
+                </item>
+                <item row="9" column="4">
+                    <widget class="QLabel" name="label_136">
+                        <property name="text">
+                            <string>sfgkxx（是否公开就业信息）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="3" column="1">
+                    <widget class="QLineEdit" name="lineEdit_5"/>
+                </item>
+                <item row="23" column="6">
+                    <widget class="QLabel" name="label_144">
+                        <property name="text">
+                            <string>zyh（专业号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="6" column="6">
+                    <widget class="QLabel" name="label_161">
+                        <property name="text">
+                            <string>xm（姓名）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="4" column="6">
+                    <widget class="QLabel" name="label_163">
+                        <property name="text">
+                            <string>yxszsdm（院校所在省代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="4" column="7">
+                    <widget class="QLineEdit" name="lineEdit_14"/>
+                </item>
+                <item row="25" column="6">
+                    <widget class="QLabel" name="label_142">
+                        <property name="text">
+                            <string>xh（学号）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="0" column="1">
+                    <widget class="QLineEdit" name="lineEdit_10">
+                        <property name="enabled">
+                            <bool>true</bool>
+                        </property>
+                        <property name="text">
+                            <string>基本信息</string>
+                        </property>
+                        <property name="frame">
+                            <bool>false</bool>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="4" column="2">
+                    <widget class="QLabel" name="label_39">
+                        <property name="text">
+                            <string>kzx4dm（扩展项4代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="15" column="4">
+                    <widget class="QLabel" name="label_63">
+                        <property name="text">
+                            <string>lxrsj（联系人手机）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="24" column="6">
+                    <widget class="QLabel" name="label_143">
+                        <property name="text">
+                            <string>xslb（学生类别）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="13" column="5">
+                    <widget class="QLineEdit" name="lineEdit_91"/>
+                </item>
+                <item row="6" column="0">
+                    <widget class="QLabel" name="label_13">
+                        <property name="text">
+                            <string>pyfsdm（培养方式代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+                <item row="1" column="0">
+                    <widget class="QLabel" name="mzdm">
+                        <property name="text">
+                            <string>mzdm（民族代码）</string>
+                        </property>
+                        <property name="alignment">
+                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+                        </property>
+                    </widget>
+                </item>
+            </layout>
+        </widget>
+        <widget class="QPushButton" name="importButton">
+            <property name="geometry">
+                <rect>
+                    <x>110</x>
+                    <y>0</y>
+                    <width>1161</width>
+                    <height>28</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>导入</string>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="importButton_2">
+            <property name="geometry">
+                <rect>
+                    <x>110</x>
+                    <y>1110</y>
+                    <width>1161</width>
+                    <height>28</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>保存</string>
+            </property>
+        </widget>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>
