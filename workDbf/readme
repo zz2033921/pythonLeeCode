@@ -1,0 +1,15 @@
+需要安装pyslide2 dbf pyinstaller
+
+
+我们前面开发的QT界面程序，在Windows 上只需要执行下面的命令，即可制作独立exe程序
+pyinstaller httpclient.py --noconsole --hidden-import PySide2.QtXml
+
+
+豆瓣镜像
+pip install 包的名字 -i https://pypi.douban.com/simple/ 库的名字(可不加)
+pip install 包的名字 -i https://pypi.douban.com/simple/ tensorflow==2.0.0#可指定版本(可不加)
+
+Gui学习视频
+https://www.bilibili.com/video/BV12K4y1872z?p=8&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1604111801&unique_k=HKXBgX
+
+https://www.bilibili.com/video/BV1cJ411R7bP?p=1
